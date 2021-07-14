@@ -1,0 +1,29 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/whatsapp-mern/node_modules
+/whatsapp-mern/.pnp
+/whatsapp-mern/.pnp.js
+
+# testing
+/whatsapp-mern/coverage
+
+# production
+/whatsapp-mern/build
+
+# misc
+/whatsapp-mern/.DS_Store
+/whatsapp-mern/.env.local
+/whatsapp-mern/.env.development.local
+/whatsapp-mern/.env.test.local
+/whatsapp-mern/.env.production.local
+
+/whatsapp-mern/npm-debug.log*
+/whatsapp-mern/yarn-debug.log*
+/whatsapp-mern/yarn-error.log*
+
+/whatsapp-mern/src/.env
+
+
+/whatsapp-backend/node_modules
+/whatsapp-backend/.env
